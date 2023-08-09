@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandrajt1
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN Stack
 - 📫  reach me at : rajanand765@gmail.com
 
