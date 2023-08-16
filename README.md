@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandrajt1
+- 👋 Hi, I’m Anand
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN Stack
 - 📫  reach me at : rajanand765@gmail.com
